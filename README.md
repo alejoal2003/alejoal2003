@@ -1,4 +1,5 @@
-Hola, Soy Alejandro Álvarez 👋
+# Hola, Soy Alejandro Álvarez 👋
+
 Soy un apasionado estudiante de 8vo semestre de Ingeniería de Software en la Escuela Politécnica Nacional en Quito. Me enfoco en construir software que resuelva problemas reales, combinando el rigor académico con el desarrollo práctico.
 
 
